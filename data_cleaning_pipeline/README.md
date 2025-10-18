@@ -178,10 +178,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@datacleaningpipeline.com
+- 📧 Email: abdulahad17100@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/your-org/data-cleaning-pipeline/issues)
 - 📖 Documentation: [Read the Docs](https://data-cleaning-pipeline.readthedocs.io/)
 
 ---
-
-**Made with ❤️ for the data science community**
